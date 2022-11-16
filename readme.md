@@ -3,11 +3,11 @@
 
 ###### - 설치가 필요한 라이브러리
 
-- opencv,scikit-image,pyautogui
+- opencv,scikit-image,pyautogui,numpy
 
 ###### - 명령어
 
-- pip install opencv-python scikit-image,pyautogui
+- pip install opencv-python scikit-image pyautogui numpy
 
 
 ## 사용법
